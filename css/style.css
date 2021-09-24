@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Questrial&display=swap');
+
+.row{
+    height: 100vh;
+}
+
+.panel{
+    font-family: 'Questrial', sans-serif;
+    background-color: #DFC13F;
+}
+.company h3{
+    font-family: 'Audiowide', cursive;
+    color: #915D47;
+}
+
+.company p{
+    font-family: 'Questrial', sans-serif;
+    color: #915D47;
+}
+
+p a{
+    text-decoration: none;
+    color: black;
+}
+
+p a:hover{
+    color: red;
+}
